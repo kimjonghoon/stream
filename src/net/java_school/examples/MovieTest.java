@@ -14,7 +14,7 @@ public class MovieTest {
 
 	public static void main(String[] args) throws Exception {
 		
-		String fileName = "./src/movies.txt";
+		String fileName = "movies.txt";
 		String str = null;
 		List<Movie> movies = new ArrayList<>();
 		
